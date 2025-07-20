@@ -1,1 +1,1 @@
-# Snake-Game-C
+# Snake-Game написанная на языке C
