@@ -1,0 +1,49 @@
+#
+!snake3.cpp graphics.h keys_n_colors.h limits.h stdlib.h time.h #<#>
+Button _type_ #<snake3.cpp>
+GOR #<snake3.cpp>
+HIHT #<snake3.cpp>
+KEY_SPACE #<snake3.cpp>
+TEN #<snake3.cpp>
+VER #<snake3.cpp>
+WIHT #<snake3.cpp>
+about() -> void #<snake3.cpp>
+apple : int[] #<snake3.cpp>
+button_values : enum #<snake3.cpp>
+buttons : Button[] #<snake3.cpp>
+close() -> void #<snake3.cpp>
+create_button(int i, int left, int top, const char* file_name) -> void #<snake3.cpp>
+create_button(int, int, int, const char*) -> void #<snake3.cpp>
+g : int #<snake3.cpp>
+game() -> void #<snake3.cpp>
+game_point() -> void #<snake3.cpp>
+game_pole() -> void #<snake3.cpp>
+head : int[] #<snake3.cpp>
+headh(int x, int y) -> void #<snake3.cpp>
+image_N1 : IMAGE* #<snake3.cpp>
+image_N2 : IMAGE* #<snake3.cpp>
+image_N3 : IMAGE* #<snake3.cpp>
+image_about : IMAGE* #<snake3.cpp>
+image_menu : IMAGE* #<snake3.cpp>
+isdead() -> int #<snake3.cpp>
+length : int #<snake3.cpp>
+load() -> void #<snake3.cpp>
+main() -> int #<snake3.cpp>
+menu() -> void #<snake3.cpp>
+object_apple(int x, int y, int color) -> void #<snake3.cpp>
+object_body(int x, int y, int color) -> void #<snake3.cpp>
+p : int #<snake3.cpp>
+pause : int #<snake3.cpp>
+process(char key) -> void #<snake3.cpp>
+refresh() -> void #<snake3.cpp>
+select_button() -> int #<snake3.cpp>
+snake : int[][] #<snake3.cpp>
+speed : int #<snake3.cpp>
+sr : int #<snake3.cpp>
+start() -> void #<snake3.cpp>
+upr : int[] #<snake3.cpp>
+	Button::left : int #<snake3.cpp>
+	Button::top : int #<snake3.cpp>
+	Button::width : int #<snake3.cpp>
+	Button::height : int #<snake3.cpp>
+	Button::image : IMAGE* #<snake3.cpp>
